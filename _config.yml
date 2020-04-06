@@ -1,11 +1,11 @@
 # Site settings
-author: Aaron J Harvey
-title: 
+author: Aaron Harvey
+title: Flatiron - Or How I stopped coasting and took control of my career
 header-img: img/home-bg.png
 email: harvey.aaronj@gmail.com
-copyright_name: Aaron J Harvey
+copyright_name: Aaron Harvey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey into Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AaronJHarvey

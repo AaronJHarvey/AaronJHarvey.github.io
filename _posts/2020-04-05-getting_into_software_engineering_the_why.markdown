@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting into Software Engineering....The Why?"
-date:       2020-04-06 00:29:10 +0000
+date:       2020-04-05 20:29:11 -0400
 permalink:  getting_into_software_engineering_the_why
 ---
 

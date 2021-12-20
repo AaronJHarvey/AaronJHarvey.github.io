@@ -4,7 +4,7 @@ For my final project here at Flatiron, I decided to make an app that will allow 
 
 # What is connect()? 
 
-`Connect()` is a function that is function provided to us via the `react-redux` that allows us to give a React component access to the app's store. Via this access to the store the connected component can get pieces of the store that it may need to either render data or dispatch actions back to the store to change/update it in some way. 
+`Connect()` is a function provided to us via the `react-redux` that allows us to give a React component access to the app's store. Via this access to the store the connected component can get pieces of the store that it may need to either render data or dispatch actions back to the store to change/update it in some way. 
 
 `Connect()` takes in up to 4 arguments, but the 2 most common are `mapStateToProps` and `mapDispatchToProps`, which we will talk about later in this blog. It uses these arguments to then listen for changes in the store and update the Props of the component accordingly. 
 
